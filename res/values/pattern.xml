@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pattern">
+        <item >Pattern1</item>
+        <item >Pattern2</item>
+        <item >Pattern3</item>
+        <item >Pattern4</item>
+        <item >Pattern5</item>
+        <item >Pattern6</item>
+    </string-array>
+    
+</resources>
